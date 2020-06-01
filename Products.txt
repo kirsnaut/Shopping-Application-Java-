@@ -1,0 +1,4 @@
+CISCO Router	60	33	63	20	25	Yes	CISCO Router etc.	56.7
+Dell Server	25	20	25	20	15	No	Dell Server etc.	12.6
+Google ChromeBooks	100	75	30	145	20	No	Google ChromeBooks etc.	78.9
+Android Dev	23	123	32	43	23	Yes	Android Technology	67.0
